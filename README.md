@@ -40,7 +40,7 @@
 - 👨‍💻 Mis proyectos disponibles en [mis repositorios](https://github.com/adrian-burgos-tome?tab=repositories)  
 - 💬 Pregúntame sobre **desarrollo web, algoritmos y Unity**  
 - 📫 Cómo contactarme: **aburtom0312@g.educaand.es**  
-- ⚡ Dato curioso: **Siempre busco mejorar un poquito cada día ✨**  
+- ⚡ Dato curioso: **Amo el código abierto ✨**  
 
 ---
 
@@ -76,15 +76,15 @@
 ---
 
 <!-- Estadísticas -->
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="left">📊 Estadísticas de GitHub:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrian-burgos-tome&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adrian-burgos-tome&show_icons=true&theme=tokyonight&locale=es" alt="stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrian-burgos-tome&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrian-burgos-tome&theme=tokyonight&locale=es" alt="streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-burgos-tome&layout=compact&theme=tokyonight" alt="langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-burgos-tome&layout=compact&theme=tokyonight&locale=es" alt="langs"/>
 </p>
