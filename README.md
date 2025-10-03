@@ -33,7 +33,7 @@
 ---
 
 <!-- Lista con íconos -->
-- 🔭 Actualmente trabajando en [Nirvana Page](https://github.com/adrian-burgos-tome/Nirvana-Page)  
+- 🔭 Actualmente trabajando en [Nirvana Page](https://github.com/adrian-burgos-tome/Nirvana-Page) 
 - 🌱 Actualmente aprendiendo **Js, Python, C++ y Java**  
 - 👯 Buscando colaborar en **proyectos de código abierto**  
 - 🤝 Buscando ayuda con **mejores prácticas en desarrollo web y backend**  
